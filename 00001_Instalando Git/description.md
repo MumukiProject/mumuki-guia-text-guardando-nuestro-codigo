@@ -19,3 +19,5 @@ Bajá el instalador desde [su página web](https://git-scm.com) y seguí las ind
 En Android
 
 * Instalá la aplicación 
+
+> Instalá `git` en tu computadora
