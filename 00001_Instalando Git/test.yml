@@ -1,2 +1,2 @@
 ---
-equal: git version <VERSION>
+equal: "`git version <VERSION>`"

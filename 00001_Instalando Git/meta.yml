@@ -7,9 +7,9 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: Hi! I am git <VERSION>
+- value: "`Hi! I am git <VERSION>`"
   checked: false
-- value: git version is <VERSION>
+- value: "`git version is <VERSION>`"
   checked: false
-- value: git version <VERSION>
+- value: "`git version <VERSION>`"
   checked: true
