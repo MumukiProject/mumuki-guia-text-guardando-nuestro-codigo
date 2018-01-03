@@ -20,4 +20,5 @@ En Android
 
 * Instalá la aplicación 
 
-> Instalá `git` en tu computadora
+> Instalá `git` en tu computadora y ejecutá `git --version`. ¿Qué resultado imprime?
+> 
