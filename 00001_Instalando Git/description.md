@@ -1,4 +1,4 @@
-Git es una _aplicación de línea de comandos_ que podemos instalar en nuestra computadora, ya sea portátil, de escritorio o una _tablet_. Los pasos exactos son diferentes según tu sistema operativo: 
+`git` es una _aplicación de línea de comandos_ que podemos instalar en nuestra computadora, ya sea portátil, de escritorio o una _tablet_. Los pasos exactos son diferentes según tu sistema operativo: 
 
 En Linux
 
