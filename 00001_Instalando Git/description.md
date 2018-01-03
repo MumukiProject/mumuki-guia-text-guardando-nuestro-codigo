@@ -12,15 +12,9 @@ En Mac
 brew install git
 ```
 
-En Windows
+En Windows 
 
-Si tenés Windows 10 con el plugin de la consola de Ubuntu integrada, podes abrirla y correr el mismo comando que la consola de Linux
-
-```bash
-sudo apt-get install git
-```
-
-Si no tenés Windows 10 o no tenés ganas de hacer lo que dice el punto anterior, podes instalar [git bajándolo desde la página web](https://git-scm.com). Esto instalará una consola llamada **Git Bash**.
+Bajá el instalador desde [su página web](https://git-scm.com) y seguí las indicaciones. Esto instalará una consola llamada **Git Bash**.
 
 En Android
 
