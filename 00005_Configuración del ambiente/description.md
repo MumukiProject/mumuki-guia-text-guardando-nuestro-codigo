@@ -5,3 +5,4 @@ git config --global user.name  "TU NOMBRE"
 git config --global user.email "TU DIRECCION DE EMAIL"
 ```
 
+> Andá a la terminal y configurá `git`.
